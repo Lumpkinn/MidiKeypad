@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"D1,D2,D3","3","SK6812MINI-E","","","","","${EXCLUDE_FROM_POS_FILES}","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://www.lcsc.com/datasheet/C5149201.pdf"
+"J1","1","Conn_01x07","","","","","${EXCLUDE_FROM_POS_FILES}","Package_SO:TSSOP-16_4.4x5mm_P0.65mm",""
+"RV1,RV2","2","SLIDER","","","","","${EXCLUDE_FROM_POS_FILES}","Potentiometer_THT:Potentiometer_Bourns_PTA1543_Single_Slide",""
+"SW1,SW2,SW3","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Hackclub Footprints:Kailh Choc Low-Profile Switches",""
+"SW4","1","RotaryEncoder_Switch_MP","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","XIAO-ESP32-S3","","","","","${EXCLUDE_FROM_POS_FILES}","Hackclub Footprints:XIAO ESP32-S3",""
