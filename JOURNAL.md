@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 15h | 6 |
+| Week 3 | Tier 1 | 16h | 6 |
 
 ## Contents
 
@@ -155,7 +155,7 @@ After that, it was well past midnight, so I decided to leave the routing, and th
 
 ### 2026-10-25 – I am cutting it extraordinarily close with this one.
 
-**1h**
+**2h**
 
 I am cutting it extraordinarily close with this one.
 
